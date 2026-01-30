@@ -1,0 +1,2 @@
+"digital twin" AND "cloud-fog" AND "real-time"
+site:https://arxiv.org/pdf/2012.06118
