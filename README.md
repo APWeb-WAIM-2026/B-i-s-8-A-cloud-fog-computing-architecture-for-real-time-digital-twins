@@ -1,3 +1,5 @@
+**Author:** baonguyenhuugia-svg  
+**Email:** bao.nguyenhuugia@hyperdatalab.org
 # Cloud Fog Computing Architecture for Real-Time Digital Twins
 
 This repository contains the implementation of a cloud-fog computing architecture for real-time digital twins.
