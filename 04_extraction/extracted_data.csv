@@ -1,0 +1,2 @@
+Study_ID,Authors,Year,Title,Architecture_Type,Application_Domain,Cloud_Tech,Fog_Tech,Edge_Tech,Communication_Protocol,DT_Type,Real_Time_Sync,Latency_ms,Throughput,CPU_Usage,Memory_Usage,Validation_Method,Key_Contribution,Limitations,Quality_Score
+S001,"Example et al.",2024,"Sample Digital Twin Architecture","Cloud-Fog-Edge","Manufacturing","AWS","OpenFog","Raspberry Pi","MQTT","Process DT","Yes",50,1000,45,2048,"Prototype","Novel architecture","Scalability",8.5
